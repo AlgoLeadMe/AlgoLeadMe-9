@@ -6,4 +6,4 @@
 | 2차시 | 2024.03.22 | 라빈카프 | [반복 부분문자열](https://www.acmicpc.net/problem/1605) [가장 긴 문자열](https://www.acmicpc.net/problem/3033) |  [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/8)  |
 | 3차시 | 2024.03.26 | 펜윅트리 |                             [구간 합 구하기](https://www.acmicpc.net/problem/2042)                             | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/13) |
 | 4차시 | 2024.03.30 | 볼록껍질 |                               [볼록 껍질](https://www.acmicpc.net/problem/1708)                                | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/14) |
-| 5차시 | 2025.04.29 |  스위핑  |                           [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/19)                           |
+| 5차시 | 2025.04.29 |  스위핑  |               [여러 직사각형의 전체 면적 구하기](https://www.acmicpc.net/problem/2672)                          | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/19) |
