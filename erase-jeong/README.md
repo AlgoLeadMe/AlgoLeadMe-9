@@ -6,4 +6,3 @@
 | 2차시 | 2023.03.23 |  DFS/BFS  |  [촌수계산](https://www.acmicpc.net/problem/2644)  | [#2](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pull/8)|
 | 3차시 | 2023.03.28 |  DP  |  [평범한 배낭](https://www.acmicpc.net/problem/12865)  | [#3](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pull/12)|
 | 4차시 | 2023.03.28 |  DP  |  [미로 탐색](https://www.acmicpc.net/problem/2178)  | [#4](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pull/17)|
----
