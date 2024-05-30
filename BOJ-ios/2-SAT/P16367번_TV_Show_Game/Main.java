@@ -56,7 +56,7 @@ public class Main {
             addGraph(bulb3, bulb1);
         }
 
-        for (int i = 1; i <= 2 * N; i++)
+        for (int i = 1; i <= (N << 1); i++)
             if (!visited[i])
                 dfs(i);
 
