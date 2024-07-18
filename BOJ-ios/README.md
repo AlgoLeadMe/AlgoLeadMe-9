@@ -8,3 +8,4 @@
 | 4차시 | 2024.03.30 | 볼록껍질 |                               [볼록 껍질](https://www.acmicpc.net/problem/1708)                                | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/14) |
 | 5차시 | 2024.04.29 |  스위핑  |                    [여러 직사각형의 전체 면적 구하기](https://www.acmicpc.net/problem/2672)                    | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/19) |
 | 6차시 | 2024.05.13 | 위상정렬 |                               [줄 세우기](https://www.acmicpc.net/problem/2252)                                | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/20) |
+| 7차시 | 2024.05.18 |   SCC    |                      [Strongly Connected Component](https://www.acmicpc.net/problem/2150)                      | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pulls/22) |
