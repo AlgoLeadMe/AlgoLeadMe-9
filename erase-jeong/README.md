@@ -7,5 +7,6 @@
 | 3차시 | 2023.03.28 |  DP  |  [평범한 배낭](https://www.acmicpc.net/problem/12865)  | [#3](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pull/12)|
 | 4차시 | 2023.04.05 |  DP  |  [미로 탐색](https://www.acmicpc.net/problem/2178)  | [#4](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pull/17)|
 | 5차시 | 2023.04.15 |  구현  |  [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  | [#5](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pull/18)|
+| 6차시 | 2023.07.27 |  BFS  |  [숨바꼭질](https://www.acmicpc.net/problem/1697)  | [#6](https://github.com/AlgoLeadMe/AlgoLeadMe-9/pull/25)|
 ---
 
